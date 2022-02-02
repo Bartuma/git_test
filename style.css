@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    min-height: 100vh;
+}
+
+.app {
+    background-color: black;
+    color: white;
+    height: 400px;
+    width: 600px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    text-transform: uppercase;
+    flex-direction: column;
+}
